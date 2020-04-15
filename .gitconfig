@@ -1,0 +1,9 @@
+[diff "*.unity"]
+  textconv = ps2ascii
+  binary = true
+[diff "*.prefab"]
+  textconv = ps2ascii
+  binary = true
+[diff "*.asset"]
+  textconv = ps2ascii
+  binary = true
