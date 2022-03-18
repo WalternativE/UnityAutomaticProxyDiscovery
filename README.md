@@ -13,6 +13,8 @@ I focus mainly on two different networking components:
 dynamic configuration (changes at runtime through code) and more intricate SSL
 configuration.
 
+> **Note**: This bug has finally been fixed in Unity 2022.1.X! Checkout https://issuetracker.unity3d.com/issues/unitywebrequest-does-not-respect-auto-proxy-settings for more information
+
 `HttpClient` doesn't do anyting automatically but ooffers extensive APIs for dynamic
 configuration, dirty SSL hacks, etc.
 
